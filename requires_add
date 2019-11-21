@@ -1,3 +1,10 @@
 # This file contains additional runtime requirements that did not get
 # picked up automatically. One name per line, no whitespace.
+perl(App::Nopaste)
+perl(B::Keywords)
+perl(Carp::Always)
+perl(Class::Refresh)
 perl(Config::INI::Reader::Ordered)
+perl(Data::Printer)
+perl(File::HomeDir)
+perl(PadWalker)
