@@ -4,7 +4,7 @@
 #
 Name     : perl-Reply
 Version  : 0.42
-Release  : 3
+Release  : 4
 URL      : https://cpan.metacpan.org/authors/id/D/DO/DOY/Reply-0.42.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DO/DOY/Reply-0.42.tar.gz
 Summary  : 'read, eval, print, loop, yay!'
@@ -19,9 +19,12 @@ Requires: perl(B::Keywords)
 Requires: perl(Carp::Always)
 Requires: perl(Class::Refresh)
 Requires: perl(Config::INI::Reader::Ordered)
+Requires: perl(Data::Dump)
 Requires: perl(Data::Printer)
 Requires: perl(File::HomeDir)
 Requires: perl(PadWalker)
+Requires: perl(Proc::InvokeEditor)
+Requires: perl(Term::ReadKey)
 BuildRequires : buildreq-cpan
 BuildRequires : perl(Config::INI::Reader)
 BuildRequires : perl(Config::INI::Reader::Ordered)
