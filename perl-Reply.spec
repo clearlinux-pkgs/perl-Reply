@@ -4,7 +4,7 @@
 #
 Name     : perl-Reply
 Version  : 0.42
-Release  : 5
+Release  : 6
 URL      : https://cpan.metacpan.org/authors/id/D/DO/DOY/Reply-0.42.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DO/DOY/Reply-0.42.tar.gz
 Summary  : 'read, eval, print, loop, yay!'
@@ -181,34 +181,34 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.1/Reply.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/App.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Config.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/AutoRefresh.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/Autocomplete/Commands.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/Autocomplete/Functions.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/Autocomplete/Globals.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/Autocomplete/Keywords.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/Autocomplete/Lexicals.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/Autocomplete/Methods.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/Autocomplete/Packages.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/CollapseStack.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/Colors.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/DataDump.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/DataDumper.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/DataPrinter.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/Defaults.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/Editor.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/FancyPrompt.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/Hints.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/Interrupt.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/LexicalPersistence.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/LoadClass.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/Nopaste.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/Packages.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/Pager.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/ReadLine.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/ResultCache.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Plugin/Timer.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Reply/Util.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/App.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Config.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/AutoRefresh.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/Autocomplete/Commands.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/Autocomplete/Functions.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/Autocomplete/Globals.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/Autocomplete/Keywords.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/Autocomplete/Lexicals.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/Autocomplete/Methods.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/Autocomplete/Packages.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/CollapseStack.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/Colors.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/DataDump.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/DataDumper.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/DataPrinter.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/Defaults.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/Editor.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/FancyPrompt.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/Hints.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/Interrupt.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/LexicalPersistence.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/LoadClass.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/Nopaste.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/Packages.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/Pager.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/ReadLine.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/ResultCache.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Plugin/Timer.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Reply/Util.pm
