@@ -5,7 +5,7 @@
 #
 Name     : perl-Reply
 Version  : 0.42
-Release  : 18
+Release  : 19
 URL      : https://cpan.metacpan.org/authors/id/D/DO/DOY/Reply-0.42.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DO/DOY/Reply-0.42.tar.gz
 Summary  : 'read, eval, print, loop, yay!'
